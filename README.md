@@ -23,7 +23,8 @@ Person having stroke in the past 45% of them has a risk of CHD.
 Risk of TenYearCHD increases with the increase in Cholestrol level.
 Following Machine Learning models are used in this project with their corresponding performance metrics on the test data -
 
-image
+![image](https://user-images.githubusercontent.com/114662126/228881825-04c1f0cc-af7f-4dbf-b184-ac764d4d63c8.png)
+
 
 From the above metrics its clear that XG Boost is the best performing model.
 
